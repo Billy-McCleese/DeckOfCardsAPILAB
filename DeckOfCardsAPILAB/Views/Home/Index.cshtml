@@ -1,0 +1,10 @@
+﻿@model List<DrawResult>
+
+<h1>Your Current Hand</h1>
+
+
+@foreach (var result in Model)
+{
+    <h2>@result.Name</h2>
+    <img src="@result.ImageUrl" />
+}

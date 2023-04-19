@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OoOzbNpKnihgMYSsZ5lGsaaG/7+eJa32e2xTgH7ImZ0Z3vHVxJq5OryIiTJnSi/RikKg85NHiCUqn3qA6bCbtw==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\DeckOfCardsAPILAB\\DeckOfCardsAPILAB\\DeckOfCardsAPILAB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\billy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
